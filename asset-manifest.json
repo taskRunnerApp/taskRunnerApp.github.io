@@ -1,13 +1,13 @@
 {
-  "main.css": "/taskRunnerApp/taskRunnerApp.github.io.git/static/css/main.d6c85e21.chunk.css",
-  "main.js": "/taskRunnerApp/taskRunnerApp.github.io.git/static/js/main.d5575c87.chunk.js",
-  "main.js.map": "/taskRunnerApp/taskRunnerApp.github.io.git/static/js/main.d5575c87.chunk.js.map",
-  "static/js/1.8e655a03.chunk.js": "/taskRunnerApp/taskRunnerApp.github.io.git/static/js/1.8e655a03.chunk.js",
-  "static/js/1.8e655a03.chunk.js.map": "/taskRunnerApp/taskRunnerApp.github.io.git/static/js/1.8e655a03.chunk.js.map",
-  "runtime~main.js": "/taskRunnerApp/taskRunnerApp.github.io.git/static/js/runtime~main.b44024ef.js",
-  "runtime~main.js.map": "/taskRunnerApp/taskRunnerApp.github.io.git/static/js/runtime~main.b44024ef.js.map",
-  "static/css/main.d6c85e21.chunk.css.map": "/taskRunnerApp/taskRunnerApp.github.io.git/static/css/main.d6c85e21.chunk.css.map",
-  "index.html": "/taskRunnerApp/taskRunnerApp.github.io.git/index.html",
-  "precache-manifest.58db4f1e5ad7e045096c97629ef04dfd.js": "/taskRunnerApp/taskRunnerApp.github.io.git/precache-manifest.58db4f1e5ad7e045096c97629ef04dfd.js",
-  "service-worker.js": "/taskRunnerApp/taskRunnerApp.github.io.git/service-worker.js"
+  "main.css": "/static/css/main.d6c85e21.chunk.css",
+  "main.js": "/static/js/main.d5575c87.chunk.js",
+  "main.js.map": "/static/js/main.d5575c87.chunk.js.map",
+  "static/js/1.8e655a03.chunk.js": "/static/js/1.8e655a03.chunk.js",
+  "static/js/1.8e655a03.chunk.js.map": "/static/js/1.8e655a03.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.d6c85e21.chunk.css.map": "/static/css/main.d6c85e21.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.cf6b86aaaa04ab7dc95e8a143344c7d0.js": "/precache-manifest.cf6b86aaaa04ab7dc95e8a143344c7d0.js",
+  "service-worker.js": "/service-worker.js"
 }
